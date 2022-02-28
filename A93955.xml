@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Barbarous and inhumane speech spoken by the Lord Wentworth, sonne to the late Earle of Straford vvherein he incourageth his souldiers to plunder townes, and ravish virgins, with many more inhumane outrages. Also a protestation made by the said Lord Wentworth. Wherein he sollemnely protesteth to revenge his fathers death on all the Kingdome. Likewise a true relation of a cruell combate that happened betweene the said Lord Wentworths regiment, and the regiment under the command of Prince Robert. Where they slew above 800. of their owne men, in striving who should plunder the towne of Cieitur on thursday December 21.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93955</idno>
+            <idno type="STC">Wing S5804</idno>
+            <idno type="STC">Thomason E83_17</idno>
+            <idno type="STC">ESTC R22258</idno>
+            <idno type="EEBO-CITATION">99871678</idno>
+            <idno type="PROQUEST">99871678</idno>
+            <idno type="VID">124091</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93955)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124091)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E83[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Barbarous and inhumane speech spoken by the Lord Wentworth, sonne to the late Earle of Straford vvherein he incourageth his souldiers to plunder townes, and ravish virgins, with many more inhumane outrages. Also a protestation made by the said Lord Wentworth. Wherein he sollemnely protesteth to revenge his fathers death on all the Kingdome. Likewise a true relation of a cruell combate that happened betweene the said Lord Wentworths regiment, and the regiment under the command of Prince Robert. Where they slew above 800. of their owne men, in striving who should plunder the towne of Cieitur on thursday December 21.</title>
+                  <author>Strafford, Wiiliam Wentworth, Earl of, 1626-1695.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Decemb. 24. Printed for I. H. and William Sommerset,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproductions of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Strafford, Thomas Wentworth, --  Earl of, 1593-1641.</term>
+               <term>Strafford, William Wentworth, 1626-1695.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124091:1"/>
+            <pb facs="tcp:124091:1" rendition="simple:additions"/>
+            <p>A barbarous and inhumane SPEECH Spoken by the Lord <hi>Wentworth,</hi> Sonne to the late Earle of STRAFORD, VVherein he incourageth his ſouldiers to plunder Townes, and raviſh Virgins, with many more inhumane outrages.</p>
+            <p>Alſo a Proteſtation made by the ſaid Lord <hi>VVentworth.</hi>
+            </p>
+            <p>Wherein he ſollemnely proteſteth to revenge his his fathers death on all the Kingdome.</p>
+            <p>
+               <hi>Likewiſe a true relation of a cruell combate that happened betweene the ſaid Lord</hi> Went<g ref="char:EOLhyphen"/>worths <hi>Regiment, and the Regiment under</hi> the <hi>Command of Prince</hi> Robert,</p>
+            <p>Where they ſlew above 800. of their owne men, in ſtriving who ſhould plunder the Towne of <hi>Cicitur,</hi> on thurſday <hi>December</hi> 21.</p>
+            <p>
+               <hi>Decemb.</hi> 24. Printed for <hi>I. H.</hi> and <hi>William Sommerſet</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:124091:2"/>
+            <pb facs="tcp:124091:2"/>
+            <head>Ioyfull Newes from the Kings ARMY, Or the deſtruction of the Cavaliers</head>
+            <p>
+               <seg rend="decorInit">O</seg>N Thurſday <hi>December</hi> 21. there happened a grea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Skirmiſh be<g ref="char:EOLhyphen"/>tween Prince <hi>Roberts</hi> owne Regiment, and the Lord <hi>Wentworths</hi> ſonne to the late Earle of <hi>Strafford,</hi> for both Regiments happened to meet neere the Roade to the Towne of <hi>Abbington</hi> in <hi>Oxfordſhir<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> upon the way to <hi>Cicitur,</hi> a great Market Towne, and the Jnhabitants richly poſ<g ref="char:EOLhyphen"/>ſeſt of Earhs indowments, this Towne theſe two Regiments had plotted to
+<pb facs="tcp:124091:3"/> plunder, (but their intentions altogether unknowne to each other) ſo that they happily met each other, and God ſo ſo brought things about, that the miſ<g ref="char:EOLhyphen"/>chiefe that they intended againſt the ſaid Towne fell upon themſelves, for meeting each other, the queſtion was made by by the Lord <hi>Wentworths</hi> Regiment, whe<g ref="char:EOLhyphen"/>ther the other were marching, Anſwer was made, to quar ter themielves at <hi>Cici<g ref="char:EOLhyphen"/>ter,</hi> the other replyed, that they had made choyſe of tho<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e quarters, and there<g ref="char:EOLhyphen"/>fore they would keepe them, or looſe their lives in the defence of them, theſe things being agravated, they grew to<g ref="char:EOLhyphen"/>wordes, and from wordes to blowes, in ſuch a cruell manner, that all the Kings Army was preſently in an uprore, and the Country up in Armes, during this combate, the Towne got intelligence of the cauſe of the Battaile, and called the County in, to their aſſiſtance, and fortefi<g ref="char:EOLhyphen"/>ed themſelves, all this time the number of the Cavaliers increaſed, for ſeverall
+<pb facs="tcp:124091:3"/> Troopes of Horſe came and ſided ſome with Prince <hi>Roberts</hi> Regiment, and ſome with the Lord <hi>Wentworths,</hi> according as they ſtood affected, ſo that the Battaile was very fi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rce and bloody, for there was ſlaine above eight hundred of the Cavaliers in the ſpace of an houre and halfe.</p>
+            <p>At laſt the Lord <hi>Wentworth</hi> having received intelligence of the proceedings of his men, came rideing poſt to the place of Bataile, where he found his men diſordered, and put to apparent rout, which he ſeeing commanded his Trum<g ref="char:EOLhyphen"/>peter to ſound a parley, which was an<g ref="char:EOLhyphen"/>ſwered by the other Regiment, and both Parties gave over fighting and retreated, then he rode up to Prince <hi>Roberts</hi> Regi<g ref="char:EOLhyphen"/>ment, and Commanded them to march up, and front his Regiment, and to put themſelves into a compleate Body, and ſo to march in a cloſe order, which was by them withall ſpeed and Dexterity effected.</p>
+            <pb facs="tcp:124091:4"/>
+            <p>Then he ordered his owne men and put them into the ſame poſture and cau<g ref="char:EOLhyphen"/>ſed them to troope up cloſe towards the other Regiment.</p>
+            <p>And having brought them up cloſe to<g ref="char:EOLhyphen"/>gether, leaving a ſmall intervaile between each front, he with a loud voice began to ſpeake as followeth.</p>
+            <p>Fellow Souldiers J much wonder at your inbecillity and raſhnes, can not you find in all this ſpacious Kingdome, ene<g ref="char:EOLhyphen"/>mies to vent your ſpleene on, but you muſt needs imploy your vallours to de<g ref="char:EOLhyphen"/>ſtroy your ſelves about a petty quarrell, have you not enemies in every corner, round dealing blades, whoſe cheſts are ſtuft with Gold, and kept for you to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e with, and muſt you needs, about one petty Towne: ſhed thus much blood and give your enemies cauſe to glory in your ruine leave of for ſhame joyne yovr united ſtrength in one firme body: and turne your revenge upon your Enemies.</p>
+            <pb facs="tcp:124091:4"/>
+            <p>Pillage and plunder, ranſacke all their Cheſts, and if they doe denye to yeeld their treaſure, tye burning Matches to their Fingers, or else about their hornes untill you make the Couckolds to diſ<g ref="char:EOLhyphen"/>cover where they have hid their treaſure.</p>
+            <p>Beeing laden with Wealth, if you de<g ref="char:EOLhyphen"/>ſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to taſte forbidden F<g ref="char:punc">▪</g> raviſh their Vir<g ref="char:EOLhyphen"/>gins, force the timorus maides to clip with you in dalliance, and wreake your utmoſt ſpleen upon the roundheads.</p>
+            <p>Jn the performance of which, you ſhall have my aſſiſtance, I loſt a father, for whome J'le be revenged on all the multitude, eſpecially of London, whoſe clamorus outcries cauſ'd my fathers death and as they ceaſed not, but with remorſe<g ref="char:EOLhyphen"/>leſſe rigour urged the Law, ſo my re<g ref="char:EOLhyphen"/>venge, as boundleſſe as their mallice, ſhall ſwim in blood and triumph in their ruine.</p>
+            <p>Having ſpoke thus in a barbarous and inbumane manner, the whole Crew in an applauſive manner, cryed out, <hi>A
+<pb facs="tcp:124091:5"/> A Wentworth, A VVentworth,</hi> ſo they im<g ref="char:EOLhyphen"/>mediately joyned Bodies, and marched towards <hi>Ciciter,</hi> what the Event will be J know not, but wee hope they will find very bad entertainment, for the Country made great haſte to goe in to their reſcue.</p>
+            <p>Thus you may ſee the depth of the intentions of that viporus Crew, which pretend that they ſtand for the true pro<g ref="char:EOLhyphen"/>teſtant Religion, when by their Actions and endeavours, they labour to deſtroy both it and the profeſſors.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
